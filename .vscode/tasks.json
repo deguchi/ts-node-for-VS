@@ -1,0 +1,12 @@
+{
+    "tasks": [
+        {
+            "label": "build",
+            "type": "npm",
+            "script": "build",
+            "group": "build",
+            "problemMatcher": [],
+            "detail": "ts-node index.ts"
+        }
+    ]
+}

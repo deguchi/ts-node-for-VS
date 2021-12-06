@@ -1,0 +1,23 @@
+{
+  "name": "ts-node-for-vs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deguchi/ts-node-for-VS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deguchi/ts-node-for-VS/issues"
+  },
+  "homepage": "https://github.com/deguchi/ts-node-for-VS#readme",
+  "devDependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
